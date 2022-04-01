@@ -5,7 +5,7 @@ const HelloInmogr = () => {
   const company: string = "inmogr"
   return (
     <div>
-      <Typography>Hello {company}</Typography>
+      <Typography>Hello {company}!</Typography>
     </div>
   )
 }
